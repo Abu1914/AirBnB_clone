@@ -1,4 +1,4 @@
-This project is on learning the AirBnB console
+This project is on learning the AirBnB consolei
 Background Context
 Welcome to the AirBnB clone project!
 Before starting, please read the AirBnB concept page.
